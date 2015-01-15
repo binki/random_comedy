@@ -1,0 +1,6 @@
+*#
+*~
+comedy4sqlite
+*.o
+*.sqlite3
+*.sqlite
